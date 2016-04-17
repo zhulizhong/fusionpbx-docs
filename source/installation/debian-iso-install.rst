@@ -1,9 +1,9 @@
 ********************
-Debian - ISO Install
+Debian - ISO 安装方式
 ********************
 
-.. warning::
+.. 警告::
 
-   The version of the ISO available is extremely old and at this time is not recommended for use. If at a later stage a newer ISO is available this warning will be removed and a link to the ISO will be added.
+   此光盘安装方式是一个非常老的版本，目前我们不推荐使用这个版本。 如果未来我们发布了新的版本，我们会移除此页面说明。
 
 
